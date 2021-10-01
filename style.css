@@ -1,0 +1,76 @@
+
+body {
+  background-color: lightblue;
+   font-size: 50px;
+   color: white;
+   text-align: center;
+   font-family: Garamond, Times, Arial;
+  
+}
+h1 {
+    text-align: left;
+    font-size: 30px;
+    font-family: Garamond, Times, Arial;
+}
+h2{
+    font-size:40px ;
+    font-family: Garamond, Times, Arial;
+    font-weight: normal;
+}
+h3{
+    font-family: Garamond, Times, Arial;
+    font-size: 55px;
+    text-align: center;
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    font-family: Garamond, Times, Arial;
+}
+
+a{
+    color: rgb(111, 122, 134);
+    text-decoration-line: none;
+    font-family: Garamond, Times, Arial;
+}
+img{
+    width: 300px;
+}
+ul{
+    font-size: 40px;
+    font-weight: bold;
+    text-align:left;
+    font-family: Garamond, Times, Arial;
+}
+div{
+    font-weight: normal;
+    font-size: 30px;
+    color: rgb(111, 122, 134);
+    font-family: Garamond, Times, Arial;
+}
+.nti{
+    width: 500px;
+    margin-top: 50px;
+}
+.button{
+background-color:rgb(111, 122, 134);
+border: none;
+color: lightblue;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
+cursor: pointer;
+font-family: Garamond, Times, Arial;
+
+}
+.button:hover{
+    box-shadow: 10px 5px 5px rgb(255, 255, 255);
+    font-family: Garamond, Times, Arial;
+}
+.problem{
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Garamond, Times, Arial;
+}
